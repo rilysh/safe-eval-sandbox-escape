@@ -3,3 +3,6 @@ Safe-eval is a npm package that used to safely evalute JavaScript without touchi
 
 # More info
 [https://github.com/MostafaSoliman/Security-Advisories/blob/master/Safe-eval%20Sandbox%20Escape/readme.md](https://github.com/MostafaSoliman/Security-Advisories/blob/master/Safe-eval%20Sandbox%20Escape/readme.md)
+
+# Result
+![image](https://user-images.githubusercontent.com/71683721/153716937-f571c78f-f8fc-4d2e-a149-f46d6cac6996.png)
